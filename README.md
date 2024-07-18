@@ -1,5 +1,3 @@
-### README for School Donation Analysis
-
 # School Donation Analysis
 
 ## Project Overview
